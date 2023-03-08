@@ -1,0 +1,17 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "2f3bc18c0d3e6b1b8a445075535d26e9",
+    "type": "adm"
+  },
+  {
+    "email": "tumang@gmail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "type": "user"
+  },
+  {
+    "email": "adit@gmail.com",
+    "password": "202cb962ac59075b964b07152d234b70",
+    "type": "user"
+  }
+]

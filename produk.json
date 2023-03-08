@@ -1,0 +1,32 @@
+[
+    {
+        "id_barang": "2",
+        "namabarang": "Laptop MSI",
+        "harga": "7500000",
+        "image": "laptopmsi.jpg"
+    },
+    {
+        "id_barang": "3",
+        "namabarang": "Laptop Dell",
+        "harga": "4500000",
+        "image": "laptopdell.jpg"
+    },
+    {
+        "id_barang": "4",
+        "namabarang": "Laptop Toshiba",
+        "harga": "5000000",
+        "image": "laptoptosiba.jpg"
+    },
+    {
+        "id_barang": "1",
+        "namabarang": "Laptop asus X441S",
+        "harga": "4000000",
+        "image": "laptopasus.jpg"
+    },
+    {
+        "id_barang": "B9305",
+        "namabarang": "",
+        "harga": "",
+        "image": ""
+    }
+]

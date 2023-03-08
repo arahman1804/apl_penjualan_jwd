@@ -1,0 +1,38 @@
+{
+  "0": {
+    "id": "1",
+    "namacustomer": "Ashton",
+    "password": "123",
+    "notelpon": "012999232",
+    "alamat": "San Francisco"
+  },
+  "1": {
+    "id": "3",
+    "namacustomer": "Bradley",
+    "password": "123",
+    "notelpon": "1299128",
+    "alamat": "London"
+  },
+  "2": {
+    "id": "4",
+    "namacustomer": "Brenden",
+    "password": "123",
+    "notelpon": "1288237",
+    "alamat": "San Francisco"
+  },
+  "4": {
+    "id": "6",
+    "namacustomer": "Clydety",
+    "password": "123",
+    "notelpon": "1288371",
+    "alamat": "Olongapo City",
+    "gender": null
+  },
+  "5": {
+    "id": "18",
+    "namacustomer": "aditya",
+    "password": "123",
+    "notelpon": "123877319",
+    "alamat": "Cirebon"
+  }
+}
